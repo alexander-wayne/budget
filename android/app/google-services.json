@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "867313954720",
+    "project_id": "budget-78e6f",
+    "storage_bucket": "budget-78e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867313954720:android:b5412863b463528e973ec5",
+        "android_client_info": {
+          "package_name": "com.wayneapps.budget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867313954720-00v9dj8c7nlgkml5bd2jvc6nrajcomvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo5NCDbOrmdmRqGnewDuSdbKMkwipaIG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867313954720-00v9dj8c7nlgkml5bd2jvc6nrajcomvf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "867313954720-pqfhpipjt9msdu8agefescgh4qla0b7r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wayneapps.budget"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
